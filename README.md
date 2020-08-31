@@ -9,7 +9,7 @@ Aspiring `full-stack` data person 👨‍🚀
 
 Sharing as I learn ☕️
 
-  Check out [on data](https://m-01101101.github.io/on-data/) or more meta writing on my [blog](https://www.mrogers.london/)
+  Check out [on data](https://m-01101101.github.io/on-data/) or more meta writing on my [blog](https://www.mrogers.london/) 📝
 
 Aspire to contribute to open-source analytics tools ⚡
 
