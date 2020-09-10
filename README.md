@@ -1,7 +1,6 @@
 ## 🤖 Hello friend 
 
 [![Twitter Badge](https://img.shields.io/badge/-@_mrogers-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mrogers)](https://twitter.com/_mrogers)
-[![Gmail Badge](https://img.shields.io/badge/-michael@mrogers.london-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michael@mrogers.london)](michael@mrogers.london)
 
 Curious about everything 🤯
 
