@@ -4,7 +4,7 @@
 
 Curious about everything 🤯
 
-Aspiring `full-stack` data person 👨‍🚀
+Aspiring `full-stack` data 👨‍🚀
 
 Sharing as I learn ☕️
 
